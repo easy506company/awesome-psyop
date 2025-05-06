@@ -18,16 +18,16 @@ A curated arsenal against influence operations, disinformation, and psychologica
 ---
 
 ## Misinformation Tracking
-- **[NewsGuard](https://www.newsguardtech.com/)** – Browser extension that rates news sources for trustworthiness.
+- **[Newsguard](https://www.newsguardtech.com/ai-misinformation-monitor/)** – Monthly AI Misinformation Monitor
 - **[Hoaxy](https://hoaxy.osome.iu.edu/)** – Visualizes how misinformation spreads online.
 - **[Media Bias/Fact Check](https://mediabiasfactcheck.com/)** – Database rating bias and accuracy of news outlets.
 
 ---
 
 ## Browser & Attention Protection Tools
-- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
 - **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
-- **[Minimal Twitter](https://github.com/thomasbnt/Minimal-Twitter)** – Browser extension to declutter Twitter/X and reduce algorithmic manipulation.
+- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
+- **[Minimal Twitter](https://github.com/typefully/minimal-twitter)** – Browser extension to declutter Twitter/X and reduce algorithmic manipulation.
 - **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
 
 ---
@@ -39,23 +39,10 @@ A curated arsenal against influence operations, disinformation, and psychologica
 
 ---
 
-## Disinformation Counter-Intel Tools
-- **[Check by Meedan](https://meedan.com/check/)** – Platform for tracking, verifying, and debunking misinformation.
-- **[Co-Inform Toolkit](https://coinform.eu/)** – Tools and research to boost public resilience against misinformation.
-
----
-
-## Libraries & APIs
-- **[Fake News Detection API](https://rapidapi.com/blog/fake-news-detection-apis/)** – API to check likelihood an article is fake.
-- **[Twitter Bot Detection Dataset](https://botometer.osome.iu.edu/bot-repository/datasets.html)** – Public datasets for training your own detection models.
-
----
-
 ## Research & Learning
-- **[The Information Laundromat (Harvard)](https://shorensteincenter.org/information-laundromat/)** – Whitepaper on misinformation amplification.
-- **[Cognitive Security and Resilience (RAND)](https://www.rand.org/pubs/research_reports/RRA112-1.html)** – Strategic guide for protecting cognitive infrastructure.
-- **[Weapons of Math Destruction by Cathy O'Neil](https://weaponsofmathdestructionbook.com/)** – Book on algorithmic bias and cognitive manipulation.
 
+- **NATO Center of Excellence, [Social media manipulation for sale](https://stratcomcoe.org/publications/social-media-manipulation-for-sale-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/311?utm_source=root2rook.co&utm_medium=newsletter&utm_campaign=newsletter-edition-1)** (4 Nov 2024) - social media platforms fail to counter bot-driven manipulation used for both spam and political influence.
+- **Darren Linvill et al.,[Digital Yard Signs: Analysis of an AI Bot Political Influence Campaign on X](https://open.clemson.edu/cgi/viewcontent.cgi?article=1006&context=mfh_reports&utm_source=root2rook.co&utm_medium=newsletter&utm_campaign=newsletter-edition-1)** (Sep 2024) - Analysis of an AI-driven bot network of over 600 accounts targeting U.S. political conversations ahead of the 2024 elections.
 ---
 
 ## Contributing
