@@ -14,8 +14,7 @@ A curated arsenal against influence operations, disinformation, and psychologica
 ## Bot Detection & Analysis
 - **[Botometer](https://botometer.osome.iu.edu/)** – Checks Twitter/X accounts for likely bot behavior.
 - **[BotSentinel](https://botsentinel.com/)** – Analyzes political misinformation and detects troll/bot accounts.
-- **[DeBot](https://github.com/vecna/debot)** – Open-source tool to detect botnets on social media.
-
+  
 ---
 
 ## Misinformation Tracking
