@@ -27,7 +27,6 @@ A curated arsenal against influence operations, disinformation, and psychologica
 ## Browser & Attention Protection Tools
 - **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
 - **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
-- **[Minimal Twitter](https://github.com/typefully/minimal-twitter)** – Browser extension to declutter Twitter/X and reduce algorithmic manipulation.
 - **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
 
 ---
