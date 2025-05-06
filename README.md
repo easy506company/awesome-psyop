@@ -25,10 +25,24 @@ A curated arsenal against influence operations, disinformation, and psychologica
 
 ---
 
+## Browser & Attention Protection Tools
+- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
+- **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
+- **[Minimal Twitter](https://github.com/thomasbnt/Minimal-Twitter)** – Browser extension to declutter Twitter/X and reduce algorithmic manipulation.
+- **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
+
+---
+
 ## Cognitive Hygiene Tools
 - **[Unfake.io](https://unfake.io/)** – Personalized fake news detector for your feed.
 - **[Ground News](https://ground.news/)** – Shows bias and ownership for news stories side-by-side.
 - **[AdNauseam](https://adnauseam.io/)** – Browser extension that clicks every ad to obfuscate your real interests.
+
+---
+
+## Disinformation Counter-Intel Tools
+- **[Check by Meedan](https://meedan.com/check/)** – Platform for tracking, verifying, and debunking misinformation.
+- **[Co-Inform Toolkit](https://coinform.eu/)** – Tools and research to boost public resilience against misinformation.
 
 ---
 
