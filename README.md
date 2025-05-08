@@ -3,7 +3,7 @@ A curated arsenal against influence operations, disinformation, and psychologica
 
 ## AI Information Defense Platforms
 
-- **[Doppel](https://www.doppel.com/) - Doppel builds AI-native defense systems to detect and disrupt AI-powered social engineering, deepfakes, and impersonation attacks. Their platform ingests online data at scale, helping organizations protect brand integrity and digital trust.
+- **[Doppel](https://www.doppel.com/)** - Doppel builds AI-native defense systems to detect and disrupt AI-powered social engineering, deepfakes, and impersonation attacks. Their platform ingests online data at scale, helping organizations protect brand integrity and digital trust.
 
 ---
 
