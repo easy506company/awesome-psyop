@@ -8,18 +8,18 @@ A curated arsenal against influence operations, disinformation, and psychologica
 
 ---
 
+## Browser & Attention Protection Tools
+- **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
+- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
+- **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
+
+---
+
 ## Data Privacy & Erasure Tools
 - **[DeleteMe](https://joindeleteme.com/)** – Paid service to remove your personal info from data brokers.
 - **[Optery](https://www.optery.com/)** – Automatic removal from data brokers (opt-out and deletions).
 - **[SimpleOptOut](https://simpleoptout.com/)** – Free guide to opt out of major data brokers manually.
 - **[JustDelete.me](https://justdelete.me/)** – Directory of links to delete your accounts from web services.
-
----
-
-## Browser & Attention Protection Tools
-- **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
-- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
-- **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
 
 ---
 
