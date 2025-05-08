@@ -16,6 +16,13 @@ A curated arsenal against influence operations, disinformation, and psychologica
 
 ---
 
+## Browser & Attention Protection Tools
+- **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
+- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
+- **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
+
+---
+
 ## Bot Detection & Analysis
 - **[Botometer](https://botometer.osome.iu.edu/)** – Checks Twitter/X accounts for likely bot behavior.
 - **[BotSentinel](https://botsentinel.com/)** – Analyzes political misinformation and detects troll/bot accounts.
@@ -26,13 +33,6 @@ A curated arsenal against influence operations, disinformation, and psychologica
 - **[Newsguard](https://www.newsguardtech.com/ai-misinformation-monitor/)** – Monthly AI Misinformation Monitor
 - **[Hoaxy](https://hoaxy.osome.iu.edu/)** – Visualizes how misinformation spreads online.
 - **[Media Bias/Fact Check](https://mediabiasfactcheck.com/)** – Database rating bias and accuracy of news outlets.
-
----
-
-## Browser & Attention Protection Tools
-- **[uBlock Origin](https://github.com/gorhill/uBlock)** – Lightweight, highly customizable ad and tracker blocker.
-- **[Privacy Badger](https://privacybadger.org/)** – Blocks invisible trackers and spying ads automatically.
-- **[Tusk Browser](https://tuskbrowser.com/)** – Browser focused on minimizing political bias and search ranking manipulation.
 
 ---
 
