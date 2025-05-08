@@ -1,6 +1,10 @@
 # awesome-psyop
 A curated arsenal against influence operations, disinformation, and psychological attacks.
 
+## AI Information Defense Platforms
+
+- **[Doppel](https://www.doppel.com/) - Doppel builds AI-native defense systems to detect and disrupt AI-powered social engineering, deepfakes, and impersonation attacks. Their platform ingests online data at scale, helping organizations protect brand integrity and digital trust.
+
 ---
 
 ## Data Privacy & Erasure Tools
@@ -36,12 +40,6 @@ A curated arsenal against influence operations, disinformation, and psychologica
 - **[Ground News](https://ground.news/)** – Shows bias and ownership for news stories side-by-side.
 - **[AdNauseam](https://adnauseam.io/)** – Browser extension that clicks every ad to obfuscate your real interests.
 
----
-
-## Research & Learning
-
-- **[Social media manipulation for sale](https://stratcomcoe.org/publications/social-media-manipulation-for-sale-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/311?utm_source=root2rook.co&utm_medium=newsletter&utm_campaign=newsletter-edition-1)** NATO Center of Excellence (4 Nov 2024) - social media platforms fail to counter bot-driven manipulation used for both spam and political influence.
-- **[Digital Yard Signs: Analysis of an AI Bot Political Influence Campaign on X](https://open.clemson.edu/cgi/viewcontent.cgi?article=1006&context=mfh_reports&utm_source=root2rook.co&utm_medium=newsletter&utm_campaign=newsletter-edition-1)** Darren Linvill et al. (Sep 2024) - Analysis of an AI-driven bot network of over 600 accounts targeting U.S. political conversations ahead of the 2024 elections.
 ---
 
 ## Contributing
